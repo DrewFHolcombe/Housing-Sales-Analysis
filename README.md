@@ -36,19 +36,12 @@ Our model suggests the most impactful features to predict house prices within ki
 Some key points to mention are:
 
 - Adding a floor ups the price by 7.6%
-
 - Being waterfront increases the price by 30%
-
 - Adding a 3/4 bathroom increases price by 6%
-
 - Adding 909 square feet to living area increases price by 17%
-
 - Having a view can increase the price from 17 to 26%
-
 - A home in poor condition can be nearly 13% cheaper, while a very good home can be 8% more expensive
-
 - Construction quality has a massive impact; below-average homes sell 26 to 42% cheaper than average homes, while more luxury homes sell for as much as 88% more
-
 - Year built, square footage of the lot, and number of bedrooms do not have significant impacts.
 
 
@@ -61,11 +54,12 @@ For any additional questions, please contact Drew Holcombe drew.holcombe7@gmail.
 
 ## Repository Structure
 
-├── README.md                           <- The top-level README for reviewers of this project
-├── Westlake Realty Group Proposal.ipynb  	<- Main notebook for project code
-├── Project_Presentation.pdf         <- PDF of slides for our presentation
-├── Data                          <- Data used in our analysis
-├── Scratch Code				<- Working notebooks for each member of the authors of this project
 
+```
+├── README.md                                  <- The top-level README for reviewers of this project
+├── Westlake_Realty_Group_Proposal.ipynb       <- Main notebook for project code
+├── Project_Presentation.pdf                   <- PDF of slides for our presentation
+├── Data                                       <- Data used in our analysis
+├── Scratch Code                               <- Working notebooks for each member of the authors of this project
 
-
+```
