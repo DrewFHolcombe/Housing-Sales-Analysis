@@ -36,10 +36,12 @@ This project presents data from around 21 thousand houses sold between May 2014 
 
 Statistical analyses were performed in Python, using the Pandas data analysis and manipulation library, the Matplotlib/Seaborn libraries to make plots, and libraries for statistical models such as statsmodels. These were applied in order to detect, clean, organize, and find the ordinary least squares model that helps us best observe data patterns, draw conclusions, and ultimately answer questions to help Westlake Realty Group.
 
+After performing data cleaning, in order to identify factors that had a significant impact on sale price, we ran simple models with each of them individually. For all features found to be individually significant, we compiled them into our multiple linear regression model. We used standard scaling to ensure all factors were comparably weighed against one another, and we used the log of our target variable to account for its strong right-tilt. For categorical features, we dropped the column corresponding to the most common category; generally the most average/central of the categories. This allowed us to construct a model containing 10 different numeric and categorical variables.
+
 
 ## Regression Results
 
-Our model suggests the most impactful features to predict house prices within king county are size of living area and the construction quality. Adding 909 square feet to living area increases the price of the home by 17%. Construction quality also has a massive impact: below-average homes sell 27 to 42% cheaper than average homes, while more luxury homes sell for as much as 88% more. 65% of the variability observed in price is explained by our regression model.
+Our model has an adjusted r-squared value of 0.651, accounting for over 65% of the variation in home price. It indicates that the most impactful features to predict house prices within King County are size of living area and the construction quality. Adding 909 square feet to living area increases the price of the home by 17%. Construction quality also has a massive impact: below-average homes sell 27 to 42% cheaper than average homes, while more luxury homes sell for as much as 88% more. 65% of the variability observed in price is explained by our regression model.
 
 
 Some other key points to mention are:
