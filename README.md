@@ -53,7 +53,7 @@ Some other key points to mention are:
 
 ## Conclusions
 
-Homebuyers face a major choice, whether it is their first time buying or not. The results presented will provide more confidence to Westlake clients and let them know they are making the best decision to suit their budget and needs. Our model provides specific features and their respective influence on price, and finding a home that meets as many of the buyer's needs and wants as possible will be made easier by implimenting this resource. Showing interest in every quantitative aspect that brings value to a house can build trust between you and client, and that trust can positively impact Westfield's relations and reputation in the community.
+Homebuyers face a major choice, whether it is their first time buying or not. The results presented will provide more confidence to Westlake clients and let them know they are making the best decision to suit their budget and needs. Our model provides specific features and their respective influence on price, and finding a home that meets as many of the buyer's needs and wants as possible will be made easier by implimenting this resource. Showing interest in every quantitative aspect that brings value to a house can build trust between you and client, and that trust can positively impact Westlake's relations and reputation in the community.
 
 
 #### Limitatios and next steps
