@@ -65,7 +65,7 @@ The dataset used included details on a small fraction of houses where renovation
 
 ## For More Information
 
-Please review our full analysis in our Jupyter Notebook or our presentation.
+Please review our full analysis in [our Jupyter Notebook](./Westlake_housing_sales_Analysis.ipynb) or our [presentation](./Project_Presentation.pdf).
 
 For any additional questions, please contact Drew Holcombe at drew.holcombe7@gmail.com, or Juan Acosta at jmaa3108@gmail.com
 
